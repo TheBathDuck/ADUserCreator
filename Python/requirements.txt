@@ -1,0 +1,3 @@
+pip install pyad
+pip install pypiwin32
+pip install requests
